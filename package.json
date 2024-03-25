@@ -1,7 +1,7 @@
 {
-  "name": "@el3um4s/typescript-npm-package-starter",
-  "version": "1.0.5",
-  "description": "Typescript NPM Package Starter",
+  "name": "@layover/air-shopping",
+  "version": "0.0.1",
+  "description": "Layover NDC AirShopping Helper.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -19,33 +19,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/el3um4s/typescript-npm-package-starter.git"
+    "url": "git+https://github.com/parsasi/layover-air-shopping"
   },
   "files": [
     "lib/**/*"
   ],
   "keywords": [
-    "typescript",
-    "npm",
-    "template",
-    "ts"
+    "layover",
+    "NDC",
+    "New Distribution Capability",
+    "IATA"
   ],
-  "author": "Samuele C. De Tomasi",
+  "author": "Parsa Safavi",
   "license": "MIT",
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/el3um4s"
-    },
-    {
-      "type": "individual",
-      "url": "https://www.paypal.me/el3um4s"
-    }
-  ],
   "bugs": {
-    "url": "https://github.com/el3um4s/typescript-npm-package-starter/issues"
+    "url": "https://github.com/parsasi/layover-air-shopping/issues"
   },
-  "homepage": "https://github.com/el3um4s/typescript-npm-package-starter#readme",
+  "homepage": "https://github.com/parsasi/layover-air-shopping",
   "devDependencies": {
     "@types/jest": "^29.4.0",
     "@types/node": "^18.13.0",
